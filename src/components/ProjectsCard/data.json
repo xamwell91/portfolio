@@ -1,0 +1,42 @@
+[
+    {
+        "id": "one",
+        "title": "Saara",
+        "description": "Saara ia an On-demand beauty service app with e-commerce. Tools and frameworks used in this project are Flutter, MobX, Firebase Messaging for push notifications. Integrated some payment gataeways like khalti and esewa.",
+        "image": "/ImageProjects/saara_logo.jpg",
+        "urlBtnLive": "https://play.google.com/store/apps/details?id=com.inflancer.saara&hl=en",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "two",
+        "title": "College Nepal Members",
+        "description": "Admin app for college admins who are the members of College Nepal web portal. Tools and frameworks I used in this project are Flutter, MVVM.",
+        "image": "/ImageProjects/cn_logo.jpg",
+        "urlBtnLive": "url live project",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "three",
+        "title": "Books Timothy",
+        "description": "Books Timothy is a mobile app launched in 2023 to access books written by Dr. Timothy Aryal. Developed with Flutter and Firebase, it offers a user-friendly interface and real-time data sync. Available on the Google Play Store, the app is actively maintained for optimal performance.",
+        "image": "/ImageProjects/books_timothy_logo.jpg",
+        "urlBtnLive": "https://play.google.com/store/apps/details?id=np.com.alokmishra.alc_book&hl=en",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "four",
+        "title": "Smart Nagar",
+        "description": "Smart Nagar is a mobile app developed in 2023 to bridge the gap between local government and the public. Created this app while I was working at Everestwalk Groups Pvt. Ltd. This app was made with Flutter. Abailable on the Google Play Store as Dakshinkali Municipality.",
+        "image": "/ImageProjects/smartnagar_logo.jpg",
+        "urlBtnLive": "https://play.google.com/store/apps/details?id=com.everestwalk.smartnagar.dakshinkali&hl=en",
+        "urlBtnCode": "url code project"
+    },
+    {
+        "id": "five",
+        "title": "PJC Song Book",
+        "description": "PJC Song Book is a mobile app which was developed in 2022 to enable users to access the lyrics and chords of songs. Using Flutter and Provider State Management, this app offers a smooth and intuitive experience for musicians and music enthusiasts.",
+        "image": "/ImageProjects/pjc_song_book_logo.jpg",
+        "urlBtnLive": "https://play.google.com/store/apps/details?id=com.PJCnepal.pjc_song_book&hl=en",
+        "urlBtnCode": "url code project"
+    }
+]
